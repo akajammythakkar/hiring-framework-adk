@@ -1,0 +1,58 @@
+JOHN DOE
+Email: john.doe@email.com | Phone: +1-555-0123
+GitHub: github.com/johndoe | LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Python Developer with 6+ years of expertise in backend development, cloud infrastructure, and scalable system design. Proven track record of delivering high-quality software solutions in fast-paced environments.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, Bash
+Frameworks: Django, Flask, FastAPI, React
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Jenkins, GitLab CI
+Tools: Git, Terraform, Prometheus, Grafana
+
+WORK EXPERIENCE
+
+Senior Python Developer | CloudTech Solutions
+January 2021 - Present
+- Architected and developed microservices-based backend system serving 2M+ users
+- Implemented RESTful APIs using Django REST Framework with 99.9% uptime
+- Designed and optimized PostgreSQL database schemas reducing query time by 40%
+- Led migration of monolithic application to containerized microservices using Docker and Kubernetes
+- Mentored team of 4 junior developers, conducting code reviews and technical training
+- Implemented CI/CD pipelines using GitLab CI, reducing deployment time by 60%
+
+Python Developer | DataFlow Inc.
+June 2018 - December 2020
+- Developed data processing pipelines using Python and Apache Airflow
+- Built RESTful APIs using Flask for data ingestion and retrieval
+- Integrated AWS services (S3, Lambda, SQS) for scalable data processing
+- Implemented unit tests achieving 85% code coverage
+- Collaborated with data science team to deploy ML models in production
+
+Junior Python Developer | StartupXYZ
+March 2017 - May 2018
+- Developed web applications using Django framework
+- Created automated testing scripts using pytest
+- Participated in Agile development processes and daily standups
+- Contributed to internal tools for team productivity
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Technology | 2013 - 2017
+GPA: 3.7/4.0
+
+PROJECTS & OPEN SOURCE
+- Contributor to Django open-source project (50+ commits)
+- Created popular Python library for API rate limiting (1,000+ GitHub stars)
+- Built personal project: Real-time stock market analysis dashboard
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate
+- Docker Certified Associate
+
+ADDITIONAL INFORMATION
+- Active participant in local Python meetup community
+- Regular speaker at tech conferences on microservices architecture
+- Published technical articles on Medium with 10K+ views

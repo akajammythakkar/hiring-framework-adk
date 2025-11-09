@@ -1,0 +1,40 @@
+JANE SMITH
+Email: jane.smith@email.com | Phone: +1-555-9876
+
+OBJECTIVE
+Seeking a Python Developer position to leverage my programming skills and experience.
+
+SKILLS
+- Python (2 years)
+- Basic knowledge of Django
+- HTML, CSS, JavaScript
+- MySQL
+- Git basics
+
+WORK EXPERIENCE
+
+Junior Developer | Web Agency Ltd
+June 2022 - Present
+- Maintained existing Django web applications
+- Fixed bugs and implemented minor features
+- Wrote basic unit tests
+- Participated in team meetings
+
+Intern | Tech Startup
+January 2022 - May 2022
+- Learned Python programming
+- Assisted senior developers with simple tasks
+- Created documentation for internal tools
+
+EDUCATION
+Associate Degree in Information Technology
+Community College | 2020 - 2022
+
+PROJECTS
+- Built a personal blog using Django
+- Created a to-do list application
+- Simple calculator web app
+
+ADDITIONAL INFORMATION
+- Fast learner and team player
+- Eager to grow technical skills
