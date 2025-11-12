@@ -4,7 +4,7 @@ Coordinates the multi-level evaluation process using Google ADK agents
 """
 
 from typing import Dict, Any, Optional
-from agents import JDProcessorAgent, ResumeEvaluatorAgent, GitHubAnalyzerAgent, FinalVerdictAgent
+from agents import JobDescriptionProcessorAgent, ResumeEvaluatorAgent, GitHubAnalyzerAgent, FinalVerdictAgent
 from utils import TextExtractor
 import json
 
@@ -17,7 +17,7 @@ class HiringFramework:
     
     def __init__(self, api_key: str = None):
         """Initialize the hiring framework with Google ADK agents"""
-        self.jd_agent = JDProcessorAgent(api_key=api_key)
+        self.jd_agent = JobDescriptionProcessorAgent(api_key=api_key)
         self.resume_agent = ResumeEvaluatorAgent(api_key=api_key)
         self.github_agent = GitHubAnalyzerAgent(api_key=api_key)
         self.verdict_agent = FinalVerdictAgent(api_key=api_key)

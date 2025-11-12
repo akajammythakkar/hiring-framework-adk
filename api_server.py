@@ -59,7 +59,7 @@ from pydantic import BaseModel
 from typing import Optional
 import os
 from dotenv import load_dotenv
-from hiring_framework import HiringFramework
+from utils.hiring_framework import HiringFramework
 from utils import TextExtractor, pdf_generator
 from config import config
 

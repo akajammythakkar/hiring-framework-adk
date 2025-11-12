@@ -179,7 +179,7 @@ curl -X GET "http://localhost:8000/api/v1/export/pdf" \
 ```
 tech-hiring-adk/
 ├── agents/                    # AI agents for each evaluation level
-│   ├── jd_processor.py       # Job description processing
+│   ├── job_description_processor.py       # Job description processing
 │   ├── resume_evaluator.py   # Resume analysis
 │   ├── github_analyzer.py    # GitHub profile evaluation
 │   └── final_verdict.py      # Final decision maker

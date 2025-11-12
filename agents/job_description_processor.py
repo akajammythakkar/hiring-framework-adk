@@ -111,7 +111,7 @@ def _run_async_safe(coro):
                 pass
 
 
-class JDProcessorAgent:
+class JobDescriptionProcessorAgent:
     """Agent for processing Job Descriptions and generating evaluation rubrics using Google ADK"""
     
     def __init__(self, api_key: str = None):
@@ -125,7 +125,7 @@ class JDProcessorAgent:
         
         # Create session service (shared across all operations)
         self.session_service = InMemorySessionService()
-        self.app_name = "jd_processor_app"
+        self.app_name = "job_description_processor_app"
         self._session_counter = 0
         
         # Create ADK Agent for JD extraction
