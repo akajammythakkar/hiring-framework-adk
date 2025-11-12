@@ -1,4 +1,4 @@
-# Tech Hiring Agentic Framework
+# Tech Hiring Agentic Framework Powered by Google Gemini and Google ADK
 
 An AI-powered hiring evaluation system built with Google ADK (Agent Development Kit) that automates candidate assessment through resume analysis, GitHub profile evaluation, and comprehensive final verdicts.
 
